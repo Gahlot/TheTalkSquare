@@ -14,4 +14,4 @@ By default the server will run on http://localhost:8000/ and **you must make sur
 ### Linux systems normally have python3 installed and django canbe installed by running the following command:
 > sudo pip install django
 
-### Check out the officially deployed website [here](http://139.59.79.235)
+### Check out my officially deployed website [here](http://139.59.79.235)
