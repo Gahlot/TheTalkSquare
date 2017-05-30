@@ -11,7 +11,7 @@ A social website where people post about public issues and can have debate on th
 
 By default the server will run on http://localhost:8000/ and **you must make sure that you have python3 and Django installed first.**
 
-### Linux systems normally have python3 installed and django canbe installed by running the following command:
+### Linux systems normally have python3 installed and django can be installed by running the following command:
 > sudo pip install django
 
 ### Check out my officially deployed website [here](http://139.59.79.235)
